@@ -1,4 +1,14 @@
-# https://debao.wang
-home page(https://debao.wang)
+# 免费建站
+利用互联网资源，免费建站（域名之外，我的域名我很喜欢）
 
-this is a test page,more content come soon!!!
+## 购买域名
+这一步其实可以省略，但没有自己的域名，总感觉网址不是你的
+
+## 建站
+本着白嫖的精神，也要彰显一下程序员的专业，用GitHub Page构建你的博客
+
+## 绑定自定义域名
+
+## 维护博客内容
+
+使用Jekyll维护你的内容，添加到GitHub Page
