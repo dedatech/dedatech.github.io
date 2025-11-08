@@ -1,4 +1,4 @@
-# dedatech.github.io
-home page
+# https://debao.wang
+home page(https://debao.wang)
 
-this is a test edit
+this is a test page,more content come soon!!!
