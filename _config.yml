@@ -1,4 +1,6 @@
-theme: jekyll-theme-minimal
+theme: minima
+plugins:
+  - jekyll-feed
 title: Wangdebao's homepage
 description: Bookmark this to keep an eye on my project updates!
 twitter_username: jekyllrb
