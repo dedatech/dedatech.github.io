@@ -12,7 +12,7 @@
 
 - [x] 购买域名
 - [x] 开通GitHub Page
-- [X] 自定义域名，将自己的页面影响到GitHub Page
+- [X] 自定义域名，将自己的域名映射到GitHub Page
 - [X] 尝试用markdown手写blog内容
 - [ ] 使用jekyll 维护网站内容
 - [ ] 博客和微信公众号同步
