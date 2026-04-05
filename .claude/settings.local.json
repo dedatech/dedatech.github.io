@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm --version)",
+      "Read(//d/tmp/**)",
+      "Bash(npm install:*)",
+      "Bash(hexo init:*)",
+      "Bash(cp -r /tmp/hexo-blog/* .)",
+      "Bash(cp -r /tmp/hexo-blog/.github .)",
+      "Bash(npx hexo:*)",
+      "Bash(git add:*)"
+    ]
+  }
+}
