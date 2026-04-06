@@ -30,17 +30,12 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: "20"
+          cache: 'npm'
 
-      - name: Setup pnpm
-        uses: pnpm/action-setup@v4
-        with:
-          version: 9
-          run_install: true
-
-      - name: Setup Hexo
+      - name: Install dependencies
         run: |
           npm install -g hexo-cli
-          npm install
+          npm ci
 
       - name: Build
         run: |
